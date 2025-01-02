@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Maxetodactyl.github.io
+[Maxetodactyl](Maxetodactyl.github.io)
 
 <!--
 
