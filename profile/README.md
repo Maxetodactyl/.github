@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Maxetodactyl](https://Maxetodactyl.github.io)
+[Maxetodactyl.com](https://Maxetodactyl.github.io)
 
 <!--
 
